@@ -11,21 +11,21 @@ This simple application will be able to maintain patient record, built using MER
 ## Technology used:
 Front-end:
 
-- Bootstrap - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. 
+- <b>Bootstrap</b> - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. 
 
-- React.JS - React (also known as React.js or ReactJS) is an open-source, front end, JavaScript library for building user interfaces or UI components. 
+- <b>React.JS</b> - React (also known as React.js or ReactJS) is an open-source, front end, JavaScript library for building user interfaces or UI components. 
 
 Back-end:
 
-- MongoDB - MongoDB is great for transactional stores where performance is a concern. Its also great when the data structure is going to evolve over time, as its schema-less operations allow you to 				update the data on the fly.
+- <b>MongoDB</b> - MongoDB is great for transactional stores where performance is a concern. Its also great when the data structure is going to evolve over time, as its schema-less operations allow you to 				update the data on the fly.
 
-- Express.JS - Express.js is a modular web framework for Node.js. It is used for easier creation of web and applications and services. Express.js s
+- <b>Express.JS</b> - Express.js is a modular web framework for Node.js. It is used for easier creation of web and applications and services. Express.js s
 
-- Node.js - Node.js is an open-source, cross-platform, back end, JavaScript runtime environment that executes JavaScript code outside a web browser.
+- <b>Node.js</b> - Node.js is an open-source, cross-platform, back end, JavaScript runtime environment that executes JavaScript code outside a web browser.
 
-- Mongoose - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It manages relationships between data, provides schema validation, and is used to translate between 				 objects in code and the representation of those objects in MongoDB.
+- <b>Mongoose</b> - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It manages relationships between data, provides schema validation, and is used to translate between 				 objects in code and the representation of those objects in MongoDB.
 
-- Axios - Axios is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node. js. 
+- <b>Axios</b> - Axios is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node. js. 
 
 
 ## Demo

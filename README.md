@@ -17,13 +17,13 @@ Front-end:
 
 Back-end:
 
-- <b>MongoDB</b> - MongoDB is great for transactional stores where performance is a concern. Its also great when the data structure is going to evolve over time, as its schema-less operations allow you to 				update the data on the fly.
+- <b>MongoDB</b> - MongoDB is great where performance is a concern. Its also great when the data structure is going to evolve over time, as its schema-less operations allow you to update the data on the fly.
 
-- <b>Express.JS</b> - Express.js is a modular web framework for Node.js. It is used for easier creation of web and applications and services. Express.js s
+- <b>Express.JS</b> - Express.js is a modular web framework for Node.js. It is used for easier creation of web and applications and services. Express.js
 
 - <b>Node.js</b> - Node.js is an open-source, cross-platform, back end, JavaScript runtime environment that executes JavaScript code outside a web browser.
 
-- <b>Mongoose</b> - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It manages relationships between data, provides schema validation, and is used to translate between 				 objects in code and the representation of those objects in MongoDB.
+- <b>Mongoose</b> - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
 
 - <b>Axios</b> - Axios is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node. js. 
 

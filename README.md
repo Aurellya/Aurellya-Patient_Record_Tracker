@@ -1,5 +1,5 @@
 # Patient-Record-Tracker
-This simple application will be able to maintain patient record, built using MERN stack. I'm still new to this, so, this app only has basic functionalities. I just put this here, maybe I'll come back to continue this later.
+This simple application will be able to maintain patient record, built using MERN stack. I'm still new to this, so, this app only has basic functionalities [CRUD operations]. I just put this here, maybe I'll come back to continue this later.
 >Notes: change the ATLAS_URI to your own database link in .env file
 
 ## Functionality:
